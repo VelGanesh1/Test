@@ -12,6 +12,8 @@ public void CompanyDetails (String a, String b, String c) {
 }
 public long CompanyDetails(long a) {
 	System.out.println("Company name is: " + a);
+	System.out.println("Company name is: " + b);
+	System.out.println("Company name is: " + c);
 	return(a);
 }
 //public static void main(String []args) {
