@@ -19,6 +19,6 @@ public class Singleclass1 {
 		System.out.println("Designation:- " + Designation);
 		System.out.println("Address:- " + Address);
 		System.out.println("PhoneNo:- " + PhoneNo);
-		
+		System.out.println("The End...");
 	}
 }
